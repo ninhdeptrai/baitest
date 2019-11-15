@@ -1,12 +1,18 @@
 
 
-.carousel-caption{
-	position: absolute;
-    right: 61%;
-    bottom: 124px;
+.carousel-caption {
+    position: absolute;
+    right: 44%;
+    bottom: 228px;
     left: 15%;
-
 }
-.btn{
-	color: #4A4747;
+.winter {
+    position: absolute;
+    right: 44%;
+    bottom: 92px;
+    left: 15%;
+}
+.tee{
+	color: black;
+	
 }
